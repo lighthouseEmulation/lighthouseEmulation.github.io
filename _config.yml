@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://lighthouseEmulation.github.io
+title: lighthouse.Emulation
+email: lighthouseEmulation@gmail.com
+author: lighthouse.Emulation
+description: a place for logging
+paginate: 10
+google_analytics: 
